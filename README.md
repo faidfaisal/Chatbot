@@ -19,9 +19,9 @@ We selected pre-existing datasets including conversational datasets and coding d
 
 | Dataset | Number of Samples | Avg. Training Length\* | Purpose | License Used |
 | :--- | :--- | :--- | :--- | :--- |
-| **Cornell Movie-Dialog Corpus** | $\sim$80k | $\sim$13h per 8 epoches | Movie like conversations | Not Officially Licensed |
-| **DailyDialog** | $\sim$160k | $\sim$26h per 8 epoches | Daily Text based dialogue | CC BY-NC-SA 4.0 |
-| **Project CodeNet** | $\sim$5.5 million | N/A (Code Only) | Programming | CDLA-Permissive 2.0 |
+| **Cornell Movie-Dialog Corpus** | ~80k | ~13h per 8 epoches | Movie like conversations | Not Officially Licensed |
+| **DailyDialog** | ~160k | ~26h per 8 epoches | Daily Text based dialogue | CC BY-NC-SA 4.0 |
+| **Project CodeNet** | ~5.5 million | N/A (Code Only) | Programming | CDLA-Permissive 2.0 |
 
 *\*Training statistics given 3080 TI GPU.*
 
@@ -59,7 +59,7 @@ Enhancements included:
 ## Results
 
 The chatbot achieved:
-* Accuracy of around $\sim$80% on intent recognition.
+* Accuracy of around ~80% on intent recognition.
 * Using the trained model, generates an adaptive response in accordance with use prompt.
 
 We noted that some results were incoherent, highlighting the need for more intensive training and improvements in our algorithms.
