@@ -1,7 +1,9 @@
 # Transformer-Based Conversational Chatbot
 
-## Project Goals
+## Acknowledgements
+We gratefully acknowledge the assistance of **ChatGPT** in providing guidance, debugging insights, and implementation strategies during the development of this project.  
 
+## Project Goals
 This project presents the design and implementation of a transformer-based chatbot trained on conversational datasets. Our system combines both intent recognition and response generation.
 
 The primary goals included:
